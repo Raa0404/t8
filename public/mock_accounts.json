@@ -1,0 +1,44 @@
+[
+  {
+    "ACCOUNT NUMBER": "1234567890",
+    "CIF ID": "CIF001",
+    "BORROWER NAME": "Rajesh Kumar",
+    "Actual NPA Date": "2023-01-15",
+    "SUB CLASSIFICATION": "Doubtful",
+    "CIF CURRENT O/S": "200000",
+    "CIF PRINCIPAL O/S": "150000",
+    "NOTIONAL DUES": "220000",
+    "WRITE OFF": "20000",
+    "CIF WAIVER": "15000",
+    "SACRIFICE": "35000",
+    "MINIMUM COMPROMISE AMOUNT": "185000"
+  },
+  {
+    "ACCOUNT NUMBER": "1234567891",
+    "CIF ID": "CIF001",
+    "BORROWER NAME": "Rajesh Kumar",
+    "Actual NPA Date": "2023-01-15",
+    "SUB CLASSIFICATION": "Doubtful",
+    "CIF CURRENT O/S": "200000",
+    "CIF PRINCIPAL O/S": "150000",
+    "NOTIONAL DUES": "220000",
+    "WRITE OFF": "20000",
+    "CIF WAIVER": "15000",
+    "SACRIFICE": "35000",
+    "MINIMUM COMPROMISE AMOUNT": "185000"
+  },
+  {
+    "ACCOUNT NUMBER": "9876543210",
+    "CIF ID": "CIF002",
+    "BORROWER NAME": "Suman Singh",
+    "Actual NPA Date": "2022-11-10",
+    "SUB CLASSIFICATION": "Loss",
+    "CIF CURRENT O/S": "300000",
+    "CIF PRINCIPAL O/S": "250000",
+    "NOTIONAL DUES": "320000",
+    "WRITE OFF": "50000",
+    "CIF WAIVER": "30000",
+    "SACRIFICE": "80000",
+    "MINIMUM COMPROMISE AMOUNT": "240000"
+  }
+]
